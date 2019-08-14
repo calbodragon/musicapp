@@ -24,10 +24,10 @@ const Header=()=>{
           Artista
         </a>
         <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a className="dropdown-item" href="#">JAMproyect</a>
-          <a className="dropdown-item" href="#">kike pavon</a>
+          <a className="dropdown-item" href="https://www.youtube.com/watch?v=JPerYZhsWf8&list=PLMLXEXLWe5QrZ9ccGxL5Akj0xJowJn5eD&index=20&t=0s">JAMproyect</a>
+          <a className="dropdown-item" href="https://www.youtube.com/watch?v=luVCFyytVTE">kike pavon</a>
           <div className="dropdown-divider"></div>
-          <a className="dropdown-item" href="#">larc-en-ciel</a>
+          <a className="dropdown-item" href="https://www.youtube.com/watch?v=kWvAdkJizbQ">larc-en-ciel</a>
         </div>
       </li>
       <li className="nav-item">
