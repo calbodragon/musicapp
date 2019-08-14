@@ -4,6 +4,7 @@ const Main=()=> {
         return ( 
             <div className='row'>
                  <img src ={fondo} className='w-100' alt='foto vinilo'/>
+                 
             </div>
          );
     
