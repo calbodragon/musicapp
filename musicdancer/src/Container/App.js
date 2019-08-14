@@ -1,6 +1,6 @@
 import React from 'react';
 import Family from '../Component/Family';
-
+import Body from '../Component/Body';
 import Main from '../Component/Main';
 
 const App=()=> {
@@ -8,6 +8,7 @@ const App=()=> {
     <div>
       <Family>
          <Main/>
+         <Body/>
       </Family>
     </div>
   );
